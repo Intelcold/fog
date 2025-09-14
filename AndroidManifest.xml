@@ -1,2 +1,2 @@
-
-
+<uses-permission android:name="android.permission.RECORD_AUDIO" />
+implementation 'org.jtransforms:jtransforms:3.1'
