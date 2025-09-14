@@ -66,6 +66,8 @@ dependencies {
     implementation("com.google.firebase:firebase-firestore")
     implementation("com.google.firebase:firebase-dataconnect")
     implementation("com.google.firebase:firebase-appcheck")
+    implementation("com.google.firebase:firebase-database")
+    implementation("com.google.firebase:firebase-config")
 
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3")
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-core:1.5.1")

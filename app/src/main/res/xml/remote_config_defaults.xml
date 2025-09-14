@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>target_frequencies</key>
+        <value>{"261.63":"Legacy scroll updated—coil resonance matched to target signature.","392.00":"Sonar ping logged at 392 Hz—terrain anomaly detected.","523.25":"Tracker core activated at 523 Hz—first echo mapped."}</value>
+    </entry>
+</defaultsMap>
